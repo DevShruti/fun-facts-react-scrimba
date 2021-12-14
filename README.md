@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+## react-fun-facts-scrimba
+
+#### A simple static React project
+
+#### Design of the [project](<https://www.figma.com/file/KmgS2PNngQkq0TQHLzNsJy/ReactFacts-(Copy)?node-id=0%3A4>)
+
+#### yarn create react-app my-app
+
+#### cd my-app
+
+#### yarn start
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
