@@ -12,6 +12,8 @@
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/85759426/146248224-2ff1e7c5-c1fe-4636-ae40-fcfad19e0483.png)
 
+#### Enjoy the deployed [project](https://fun-facts-react-scrimba3.vercel.app/)
+
 
 Getting Started with Create React App
 
